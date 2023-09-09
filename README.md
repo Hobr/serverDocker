@@ -42,3 +42,7 @@
 - [Portainer](https://hub.docker.com/r/portainer/portainer-ce)
 - [Adminer](https://hub.docker.com/_/adminer)
 - [Uptime Kuma](https://hub.docker.com/r/louislam/uptime-kuma)
+
+### 个人
+
+- [Rust Desk](https://github.com/rustdesk/rustdesk)
